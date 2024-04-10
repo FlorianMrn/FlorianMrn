@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Clean architecture for front app with Next.js & Back app with Nest.js**
 
-- 💬 Ask me about **React, Next.js or Tailwind.**
+- 💬 Ask me about **React, Next.js, Typescript or Tailwind.**
 
 - 📫 How to reach me **fmerrien.dev@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/florian-merrien/](https://www.linkedin.com/in/florian-merrien/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
